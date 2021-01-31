@@ -1,5 +1,5 @@
 # WhispersGGJ2021
-Whispers Global Game Jam (Created by: James Del Pilar & Ivan Chernychko
+Whispers Global Game Jam 2021 (Created by: James Del Pilar & Ivan Chernychko)
 
 Check out the game:
 
