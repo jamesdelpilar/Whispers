@@ -8,8 +8,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:6763299160138498048/
 
 GGJ: https://globalgamejam.org/2021/games/project-unknown-9
 
-GitHub: https://github.com/jamesdelpilar/Whispers
-
 Game Download (itch.io): https://jamesdelpilar.itch.io/whispers
 
 30 Sec Clip: https://youtu.be/LFgzfs7u_QA
